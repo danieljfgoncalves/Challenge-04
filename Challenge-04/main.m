@@ -1,17 +1,8 @@
-//
-//  main.m
-//  Challenge-04
-//
-//  Created by Daniel Goncalves on 2015-04-08.
-//  Copyright (c) 2015 Daniel Goncalves. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
-
-int main(int argc, const char * argv[]) {
+int main (int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+    
+        NSLog (@"87 - 15 = %d", 87 - 15);
     }
     return 0;
 }
